@@ -37,4 +37,4 @@ sass:
 gems:
   - jekyll-sitemap
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
